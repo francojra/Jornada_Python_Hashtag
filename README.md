@@ -1,2 +1,3 @@
-# Jornada_Python_Hashtag
-Scripts da Jornada Python da Hashtag Programação.
+# Jornada Python Hashtag
+
+Scripts e materiais do evento Jornada Python ofertado pela Hashtag Programação.
